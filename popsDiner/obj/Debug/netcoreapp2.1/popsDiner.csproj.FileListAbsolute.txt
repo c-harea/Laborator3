@@ -1,0 +1,177 @@
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.deps.json
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.json
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.dev.json
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.dll
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.pdb
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csprojAssemblyReference.cache
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cache
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cache
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.dll
+C:\Users\patel\OneDrive\Desktop\Pop'sDiner\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.pdb
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.deps.json
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.json
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.dev.json
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.dll
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.pdb
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csprojAssemblyReference.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.dll
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.pdb
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.dll
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.pdb
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.input.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.output.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorCoreGenerate.cache
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Item\List.g.cshtml.cs
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.Views.pdb
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CopyComplete
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\patel\OneDrive\Desktop\popsDiner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.deps.json
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.json
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.dev.json
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.dll
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.pdb
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.dll
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.pdb
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csprojAssemblyReference.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.input.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.output.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorCoreGenerate.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Item\List.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cache
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.Views.pdb
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.dll
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.pdb
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CopyComplete
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ItemOverviewSummary.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ItemOfTheWeek.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Item\Details.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\AppException\Index.g.cshtml.cs
+C:\Users\patel\OneDrive\Documents\GitHub\Pops-Diner\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ShoppingCartPartial.g.cshtml.cs
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\appsettings.json
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\libman.json
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.deps.json
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.json
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.dev.json
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.dll
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.pdb
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.dll
+E:\webdev\IDWeb Lab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.pdb
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.AssemblyReference.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.GeneratedMSBuildEditorConfig.editorconfig
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfoInputs.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfo.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CoreCompileInputs.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.input.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.output.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorCoreGenerate.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\AppException\Index.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Item\Details.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Item\List.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ItemOfTheWeek.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ItemOverviewSummary.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ShoppingCartPartial.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cs
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.Views.pdb
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.dll
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.pdb
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.genruntimeconfig.cache
+E:\webdev\IDWeb Lab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CopyComplete
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\appsettings.json
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\libman.json
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.deps.json
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.json
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.runtimeconfig.dev.json
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.dll
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.pdb
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.dll
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\bin\Debug\netcoreapp2.1\popsDiner.Views.pdb
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.AssemblyReference.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.GeneratedMSBuildEditorConfig.editorconfig
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfoInputs.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.AssemblyInfo.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CoreCompileInputs.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorAssemblyInfo.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.input.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.TagHelpers.output.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorCoreGenerate.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\AppException\Index.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Item\Details.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Item\List.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ItemOfTheWeek.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ItemOverviewSummary.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ShoppingCartPartial.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.RazorTargetAssemblyInfo.cs
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.Views.pdb
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.dll
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.pdb
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.genruntimeconfig.cache
+E:\webdev\Tehnologii Web\IDWebLab3\popsDiner\obj\Debug\netcoreapp2.1\popsDiner.csproj.CopyComplete
