@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <PackageTargetFallback Condition=" '$(TargetFramework)' == 'netcoreapp2.1' ">$(PackageTargetFallback);portable-net451+win8+dnxcore50;portable-net451+win8</PackageTargetFallback>
+	  <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
   </PropertyGroup>
 
   <ItemGroup>
